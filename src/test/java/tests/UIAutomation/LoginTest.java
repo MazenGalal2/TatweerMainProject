@@ -1,4 +1,4 @@
-package tests;
+package tests.UIAutomation;
 
 import com.aventstack.extentreports.*;
 import com.aventstack.extentreports.reporter.ExtentSparkReporter;
